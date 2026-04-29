@@ -8,7 +8,7 @@ Designed with a clean, modern interface and real-time feedback system to measure
 
 ## 🚀 Live Demo
 
-If deployed, you can try it here:  
+You can try it here:  
 👉 https://typist-zkqj.onrender.com
 
 ---
